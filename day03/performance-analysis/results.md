@@ -1,0 +1,2 @@
+- CPU Vector Add Time: 0.291449 seconds
+- GPU Vector Add Time: 0.004985 seconds
