@@ -8,3 +8,4 @@ Logs and kernels for 100 days CUDA challenge
 |:------: |:------:|
 |01 | Hello World (from GPU) |
 |02 | Simple Project structure with Makefile |
+|03 | Performance analysis by vector additions |
