@@ -12,4 +12,5 @@ Logs and kernels for 100 days CUDA challenge
 |03 | Performance analysis by vector additions |
 |04 | Matrix Multiplication Kernel |
 |05 | Matrix Addition Kernel |
-|06 | Matriv Multiplication Kernel (elementwise) |
+|06 | Matrix Multiplication Kernel (elementwise) |
+|07 | Vector Scale vector (learned about global memory basics) |
