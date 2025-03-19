@@ -14,4 +14,5 @@ Logs and kernels for 100 days CUDA challenge
 |05 | Matrix Addition Kernel |
 |06 | Matrix Multiplication Kernel (elementwise) |
 |07 | Vector Scale vector (learned about global memory basics) |
-|08 | Matrix Multiplication (prducing one output matrix row) | 
+|08 | Matrix Multiplication (prducing one output matrix row) |
+|09 | Color Inversion kernel |
