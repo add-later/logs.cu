@@ -1,6 +1,13 @@
 *.i
 *.ii
-*.gpu
 *.ptx
+# Ignore object files
+*.o
+*.obj
+
+# Ignore CUDA-related intermediate files
+*.ptx
+*.gpu
 *.cubin
 *.fatbin
+*.d
